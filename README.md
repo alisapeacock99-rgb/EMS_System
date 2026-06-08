@@ -1,4 +1,4 @@
-#Employee Management System (EMS)
+##Employee Management System (EMS)
 
 The **Employee Management System (EMS)** is a desktop application developed in **Java** using **Java Swing** for the graphical user interface and **Apache Derby Database** for data storage. The system is designed to help organizations efficiently manage employee records, departments, and payroll information through a centralized platform.
 
